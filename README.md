@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**NoMoreCookies/NoMoreCookies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of **Mathematics & Data Analysis** and **Applied Computer Science** at **Wrocław University of Science and Technology (Politechnika Wrocławska)**.
 
-Here are some ideas to get you started:
+## 🛠 Tools & Tech
+- **Languages:** Python, R, SQL  
+- **Data & Math:** NumPy, pandas, statistics, probability  
+- **ML / DS:** scikit-learn, basic PyTorch  
+- **Other:** Git, LaTeX, Jupyter, Excel  
+- **Interests:** Finance, quantitative analysis, blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 A Bit About Me 
+- 🌱 I’m currently learning machine learning and blockchain technologies  
+- 👯 I’m looking to collaborate on data science, finance, or blockchain projects  
+- 📫 How to reach me: GitHub / LinkedIn 
+- ⚡ Fun fact: I enjoy combining math with real-world finance problems
+
+## 🌍 Languages
+- 🇵🇱 **Polish** — native  
+- 🇬🇧 **English** — C1  
+- 🇩🇪 **German** — A2 *(currently learning)*
