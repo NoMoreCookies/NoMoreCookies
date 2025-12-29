@@ -13,8 +13,8 @@ I'm a student of **Mathematics & Data Analysis** and **Applied Computer Science*
 - 🌱 I’m currently learning machine learning and blockchain technologies  
 - 👯 I’m looking to collaborate on data science, finance, or blockchain projects  
 - 📫 How to reach me: GitHub / LinkedIn 
-- ⚡ Fun fact: I enjoy combining math with real-world finance problems
-
+- ⚡ Fun fact: I like fantasy books, climbing, and biking.
+  
 ## 🌍 Languages
 - 🇵🇱 **Polish** — native  
 - 🇬🇧 **English** — C1  
